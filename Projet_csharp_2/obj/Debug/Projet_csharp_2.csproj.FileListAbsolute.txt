@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\L3\sem1\Csharp\mes tentatives\Projet_csharp_2\Projet_csharp_2\bin\Debug\Projet_csharp_2.exe.config
+C:\Users\Lenovo\Desktop\L3\sem1\Csharp\mes tentatives\Projet_csharp_2\Projet_csharp_2\bin\Debug\Projet_csharp_2.exe
+C:\Users\Lenovo\Desktop\L3\sem1\Csharp\mes tentatives\Projet_csharp_2\Projet_csharp_2\bin\Debug\Projet_csharp_2.pdb
+C:\Users\Lenovo\Desktop\L3\sem1\Csharp\mes tentatives\Projet_csharp_2\Projet_csharp_2\obj\Debug\Projet_csharp_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\L3\sem1\Csharp\mes tentatives\Projet_csharp_2\Projet_csharp_2\obj\Debug\Projet_csharp_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\L3\sem1\Csharp\mes tentatives\Projet_csharp_2\Projet_csharp_2\obj\Debug\Projet_csharp_2.exe
+C:\Users\Lenovo\Desktop\L3\sem1\Csharp\mes tentatives\Projet_csharp_2\Projet_csharp_2\obj\Debug\Projet_csharp_2.pdb

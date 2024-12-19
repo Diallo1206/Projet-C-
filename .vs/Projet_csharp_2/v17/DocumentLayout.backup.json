@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|c:\\users\\lenovo\\desktop\\l3\\sem1\\csharp\\mes tentatives\\projet_csharp_2\\projet_csharp_2\\entity\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|solutionrelative:projet_csharp_2\\entity\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|c:\\users\\lenovo\\desktop\\l3\\sem1\\csharp\\mes tentatives\\projet_csharp_2\\projet_csharp_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|solutionrelative:projet_csharp_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|c:\\users\\lenovo\\desktop\\l3\\sem1\\csharp\\mes tentatives\\projet_csharp_2\\projet_csharp_2\\mao\\compteimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|solutionrelative:projet_csharp_2\\mao\\compteimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|c:\\users\\lenovo\\desktop\\l3\\sem1\\csharp\\mes tentatives\\projet_csharp_2\\projet_csharp_2\\mao\\icompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|solutionrelative:projet_csharp_2\\mao\\icompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|c:\\users\\lenovo\\desktop\\l3\\sem1\\csharp\\mes tentatives\\projet_csharp_2\\projet_csharp_2\\entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35902B26-FC1A-4CC7-A211-EEBAA737942D}|Projet_csharp_2\\Projet_csharp_2.csproj|solutionrelative:projet_csharp_2\\entity\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\entity\\Client.cs",
+              "RelativeDocumentMoniker": "Projet_csharp_2\\entity\\Client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\entity\\Client.cs",
+              "RelativeToolTip": "Projet_csharp_2\\entity\\Client.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA0wDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:36:18.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICompte.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\mao\\ICompte.cs",
+              "RelativeDocumentMoniker": "Projet_csharp_2\\mao\\ICompte.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\mao\\ICompte.cs",
+              "RelativeToolTip": "Projet_csharp_2\\mao\\ICompte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:24:41.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\Program.cs",
+              "RelativeDocumentMoniker": "Projet_csharp_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\Program.cs",
+              "RelativeToolTip": "Projet_csharp_2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:18:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compte.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\entity\\Compte.cs",
+              "RelativeDocumentMoniker": "Projet_csharp_2\\entity\\Compte.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\entity\\Compte.cs",
+              "RelativeToolTip": "Projet_csharp_2\\entity\\Compte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:16:14.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompteImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\mao\\CompteImpl.cs",
+              "RelativeDocumentMoniker": "Projet_csharp_2\\mao\\CompteImpl.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\L3\\sem1\\Csharp\\mes tentatives\\Projet_csharp_2\\Projet_csharp_2\\mao\\CompteImpl.cs",
+              "RelativeToolTip": "Projet_csharp_2\\mao\\CompteImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:24:45.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
